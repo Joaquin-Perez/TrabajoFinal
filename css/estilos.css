@@ -1,0 +1,20 @@
+nav{
+    background-color: #466362
+}
+body{
+    font-family: 'Heebo', sans-serif;
+    background-color: #7FC8F8;
+}
+.seccion{
+    background-color: #DB3A34;
+    color: #ffffff;
+}
+
+.categoria{
+    border-radius: 1rem;
+    box-shadow: 1rem 2rem 3rem rgba(0, 0, 0, 0.50);
+}
+.categoria:hover{
+    transform: scale(1.2);
+    transition: 300ms;
+}
